@@ -9,7 +9,8 @@ It supports basic math operations like addition, subtraction, multiplication, an
 - Error handling for invalid expressions
 
 ## How to use
-- Open [Calculator App](https://levuxuananit.github.io/JS-CALCULATOR-APP/) in your browser
+- Open [Calculator App](https://levuxuananit.github.io/js-calculator-app/) in your browser
 - Click the number and operator buttons to build an expression
 
 - Press = to see the result
+
